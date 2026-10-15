@@ -287,3 +287,8 @@ footer p {
   color: white;
   font-size: 20px;
 }
+.logo img {
+  width: 160px;
+  height: auto;
+  display: block;
+}
